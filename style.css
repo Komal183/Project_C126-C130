@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 55px;
+    font-family: 'Butcherman', cursive;
+    white-space: pre-line;
+    line-height: 30px;
+    padding-top: 20px;
+    box-shadow: 15px 15px 10px grey;
+}
+
+canvas {
+    border: 3px solid yellow;
+    box-shadow: 10px 10px 10px  yellow;
+    padding: 6px;
+    margin-top: 250px;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    padding-top: 5px;
+}
+ 
